@@ -45,7 +45,7 @@ You'll need `Python 3.10+`, `pip`, and a virtual environment setup to run the ap
     After setting up your environment, run the app with the following command:
 
     bash
-    Copy code
+   
     python main.py
 
 ### Folder Structure
