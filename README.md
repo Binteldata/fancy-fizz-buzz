@@ -34,7 +34,7 @@ You'll need `Python 3.10+`, `pip`, and a virtual environment setup to run the ap
 
     ```bash
     python -m venv venv
-        source venv/bin/activate   # On Windows, use 'venv\Scripts\activate'
+    source venv/bin/activate   # On Windows, use 'venv\Scripts\activate'
    
 3. Install the dependencies listed in requirements.txt:
     
@@ -69,6 +69,8 @@ fizzbuzz_app/
 └── README.md             # You're reading it now!
 
 ### Let's Build Together!
-Feel free to fork this repository, experiment with the code, and contribute. This is a learning project, and collaboration is welcome! Let’s grow our Python and GUI development skills together.
+Feel free to fork this repository, experiment with the code, and contribute. 
+This is a learning project, and collaboration is welcome! 
+Let’s grow our Python and GUI development skills together.
 
 Happy coding!
